@@ -1,2 +1,1 @@
-# vuepress-demo
-to learning vuepress
+# Hello VuePress!
